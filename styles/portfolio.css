@@ -97,6 +97,10 @@ nav a {
 
 /* main section styles */
 
+main{
+    max-width: 1140 px;
+    margin: 0px auto;
+}
 
 /* about section styles */
 
